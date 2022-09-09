@@ -97,8 +97,8 @@ Flow description:
 
 Because the value of token in Cardano is limited to int 64, we need to consider the decimal convert in the 3 categories. 
 
-a, If the total supply can be expressed by int 64 with the default decimal. The wrapped tokens on Cardano will keep the default decimal as native token.
-b, If the total supply can not be expressed by int 64 with the default decimal, the decimal on Cardano side will be set as 6. The Multichain protocol will convert the decimal.
+a, If the total supply can be expressed by int 64 with the decimal of the token on source chain. The wrapped tokens on Cardano will keep the decimal as native token.
+b, If the total supply can not be expressed by int 64 with the decimal of the token on source chain, the decimal on Cardano side will be set as 6. The Multichain protocol will convert the decimal.
 c, If the int 64 with 6 decimal still can’t express the total supply of the token, the decimal on Cardano side will be set as 0. The Multichain protocol will convert the decimal. This need to be agreed by the token project team. 
 
 2, Rate
