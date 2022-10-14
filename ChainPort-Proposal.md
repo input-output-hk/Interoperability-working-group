@@ -1,4 +1,4 @@
-#Chainport Proposal
+# Chainport Proposal
 
 Chainport (https://www.chainport.io/) is working on a Cardano bridge and they are planning to Go-Live on the20th of October.
 
@@ -9,7 +9,7 @@ They’ve just finished an 8 weeks long audit by Certik of the contracts+backend
 1. we just finished an 8 engineering week audit by TrailOfBits, and
 2. a similar length audit by certik. The Certik one was fully focused on the Cardano integration.
 
-###Initial feedback from WG
+### Initial feedback from WG
 
 Some additional documentation would be good.
 
