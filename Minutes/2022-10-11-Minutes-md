@@ -1,0 +1,55 @@
+# Minutes for Tues, Oct 11
+
+**Attendees:**
+
+* Zhao Tan - FourierLabs
+* Xi Luo - Multichain
+* Sam Lambert - Zengate
+* Mohammad Hasan Samadari - Rosen Bridge - Ergo Foundation
+* Charles Augu - Smart Chain
+* Dima Brook - XP Network
+* Dima Ulyanov - XP Network
+
+**Interested parties:**
+
+* Anita Jovic - IOG
+* Ignacio Calderon de la Barca - IOG
+* Adriana Saez - IOG
+
+**Apologies:**
+
+* Michal Blasko - Wingriders
+* Lukas Polacek - Vacuumlabs
+* Interested party - Aric Chang - Wave
+* Interested party - Johnny Nguyen - IOG
+* Interested party - Nick Nayfack - IOG
+
+**Minutes:**
+
+* Charles Augu introduced https://smart-chain.fr/
+* Dima Brook  introduced https://xp.network/ - https://bridge.xp.network/ - NFT bridge with more than 18 bridges in the ecosystem, are looking to bridge into Cardano. They are not a marketplace, just a bridge so users can work with any marketplace.
+* As new members joined it was highlighted that the objective and mission of this working group was to provide ecosystem support in terms of technology, business partnership, risk framework, etc.. to any solution providers aiming to build a bridge on Cardano. Bridge, as interoperability architecture, is critical to the Cardano ecosystem growth, but  also a vulnerable building block in the multichain world. This Bridge Working Group endeavors to share the best practice, high standard security and governance in this mission critical.
+* Current status on Multichain integration to Cardano:
+    * Integration in Testnet between Fantom and Cardano is available to users now
+    * Very good feedback has been received from the members of this working group and the suggestions have been taken into consideration. Looking forward to hearing from more feedback from the current and new members
+    * Looking for formal auditors is challenging as integration with Cardano has no online scripts, is all off-chain and Golang in the MPC network.
+    * The current plan is to continue working with the technical members from the WG on the code review and look for auditors
+    * Multichain proposal will be updated in the WG github with link, designs, etc.. so everything is available for the community to comment
+* Current status on Rosen Bridge - https://github.com/rosen-bridge
+    * Code and Repos are public
+    * Trying to deploy to Ergo and Cardano Mainnet for a soft launch with test tokens for a couple of weeks to confirm security and integrity of the bridge.
+    * Soft launch is currently plan for the next 2 or 3 weeks
+* A new proposal was mentioned re: tokenomics, more specific on Levering the SPO network for bridge security.
+* It mentioned that a “bridge working group” repo was created for the members of this working group to add proposals that they would like to discuss.
+https://github.com/input-output-hk/Bridges-working-group
+* Anita provided an update of the Dapp Call that will happen on the 18th/ 19th October and invited the working group members to participate
+* It was also mentioned that this group needs to start thinking about how this working group will be managed as well as appointing chair and vice-chair.
+* The first newsletter will be an introduction of the working groups. However in the next ones members of this group could present their own projects.
+
+**Actions:**
+
+* Luoxi - update Multichain proposal in Github so all members can provide feedback
+* All - Technical people - Support Multichain with Code review and feedback
+* Adriana/ All - help finding auditors with Golang experience
+* Mohammad/ Sam to raise the proposal re: Levering the SPO network for bridge security in the Github so discussion can start within members of the community
+* Multichain to update documentation based on feedback provided by the working group members
