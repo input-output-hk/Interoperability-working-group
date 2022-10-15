@@ -393,5 +393,3 @@ struct FeeConfig {
 [cardano_-_eth Flow Chart.pdf](CIP%20Cardano%20Multichain%20Router%20b02eb0e3a2bf408a85bdbe6a4ce5603b/cardano_-_eth.pdf)
 
 ![Untitled](CIP%20Cardano%20Multichain%20Router%20b02eb0e3a2bf408a85bdbe6a4ce5603b/Untitled.png)
-
-[CIP%20Cardano%20Multichain%20Router%20b02eb0e3a2bf408a85bdbe6a4ce5603b/cardano_-_eth%201.pdf](CIP%20Cardano%20Multichain%20Router%20b02eb0e3a2bf408a85bdbe6a4ce5603b/cardano_-_eth%201.pdf)
