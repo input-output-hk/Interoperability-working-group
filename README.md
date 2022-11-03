@@ -1,8 +1,8 @@
-# Bridges-working-group
+# Interoperability-working-group
 
 ## Working Group Aim
 
-The aim of the Bridge working group is to support the development of cross-chain decentralized bridges between Cardano and other chains. This Working Group will foster the development of CIPs and other proposals (new features, enhancements..) to enhance mainnet bridging to Cardano that are appropriate to the community's needs. These proposals will also serve as a blueprint to onboard other bridge partners.
+The aim of the Interoperability working group is to support the development of cross-chain decentralized bridges between Cardano and other chains. This Working Group will foster the development of CIPs and other proposals (new features, enhancements..) to enhance mainnet bridging to Cardano that are appropriate to the community's needs. These proposals will also serve as a blueprint to onboard other bridge partners.
 
 ## Working Group Responsibilities
 
